@@ -1,0 +1,27 @@
+{
+  "name": "warranty",
+  "version": "1.0.0",
+  "description": "creating a smart_contract, to use NFT's as warranty ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parth Verma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infoparth/Solidity_Smart_Contracts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/infoparth/Solidity_Smart_Contracts/issues"
+  },
+  "homepage": "https://github.com/infoparth/Solidity_Smart_Contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/hardhat-upgrades": "^2.2.1",
+    "hardhat": "^2.17.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
